@@ -27,7 +27,7 @@
 
  𝐅𝐈𝐑𝐒𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐖𝐄𝐁
 
-  <a href="https:https://arizak-id.onrender.com/ "><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
+  <a href=""><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
 
 
 𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐖𝐄𝐁
