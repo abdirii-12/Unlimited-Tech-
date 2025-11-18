@@ -3,7 +3,7 @@ services:
     name: UNLIMITED-TECH 
     env: node
     plan: free
-    repo: ...........repo.........
+    repo: https://github.com/abdirii-12/Unlimited-Tech-
     branch: main
     buildCommand: npm install
     startCommand: npm start
