@@ -3,16 +3,12 @@
 <a><img src='https://files.catbox.moe/kj9kn4.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-HUNTER%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-UNLIMITED%20TECH-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
 
 </div>
-
- <p align="center"><img src="https://profile-counter.glitch.me/{Obedweb}/count.svg" alt="Obedweb :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Obedweb}/count.svg" /></p>
-
-
 
 
 ### 1. FORK THIS REPO
@@ -64,7 +60,7 @@
 
 
 
-## 𝐑𝐄𝐀𝐂𝐇 𝐎𝐔𝐓 𝐎𝐁𝐄𝐃𝐓𝐄𝐂𝐇
+## 𝐑𝐄𝐀𝐂𝐇 𝐎𝐔𝐓 UNLIMITED-TECH 
 
  <a href="https://reach-out-obedtech.vercel.app/"><img title="REACH OUT OBEDTECH" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
