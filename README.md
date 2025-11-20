@@ -13,7 +13,7 @@
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/Obedweb/Hunter-Xmd1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href=' https://github.com/abdirii-12/Unlimited-Tech/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏
@@ -33,7 +33,7 @@
 
    🕳IF YOU LOVE THIS PROJECT BY PK DRILLER... FOLLOW ME
    
-   <a href="https://github.com/Obedweb"><img title="FOLLOW-ACCOUNT" src="https://img.shields.io/badge/FOLLOW-ME-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
+   <a href="https://github.com/abdirii-12/Unlimited-Tech"><img title="FOLLOW-ACCOUNT" src="https://img.shields.io/badge/FOLLOW-ME-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
 
    🕎 𝐃𝐄𝐏𝐋𝐎𝐘𝐈𝐍𝐆 𝐖𝐄𝐁
 
