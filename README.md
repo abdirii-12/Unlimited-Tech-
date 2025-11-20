@@ -23,11 +23,11 @@
 
  𝐅𝐈𝐑𝐒𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐖𝐄𝐁
 
-  <a href="https://hunter-xmd-web.vercel.app"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
+  <a href="❓️❓️❓️"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
 
 
 𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐖𝐄𝐁
-<a href="https://hunter-adv-pair.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
+<a href="❓️❓️❓️"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
 
  ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
@@ -37,7 +37,7 @@
 
    🕎 𝐃𝐄𝐏𝐋𝐎𝐘𝐈𝐍𝐆 𝐖𝐄𝐁
 
- <a href="https://hunter-xmd-deploying-web.vercel.app"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=red&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="❓️❓️❓️"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=red&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
@@ -62,7 +62,7 @@
 
 ## 𝐑𝐄𝐀𝐂𝐇 𝐎𝐔𝐓 UNLIMITED-TECH 
 
- <a href="https://reach-out-obedtech.vercel.app/"><img title="REACH OUT OBEDTECH" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
+ <a href="❓️❓️❓️"><img title="REACH OUT UNLIMITED-TECH" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
 
 
