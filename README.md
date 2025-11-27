@@ -23,7 +23,7 @@
 
  𝐅𝐈𝐑𝐒𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐖𝐄𝐁
 
-  <a href="https://unlimited-tech-6iuu.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
+  <a href="https://unlimited-tech-6iuu.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p> 
 
 
 𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐖𝐄𝐁
@@ -35,9 +35,20 @@
    
    <a href="https://github.com/abdirii-12/Unlimited-Tech"><img title="FOLLOW-ACCOUNT" src="https://img.shields.io/badge/FOLLOW-ME-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
 
-   🕎 𝐃𝐄𝐏𝐋𝐎𝐘𝐈𝐍𝐆 𝐖𝐄𝐁
+  
 
- <a href="❓️❓️❓️"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=red&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ 🕎 𝐃𝐄𝐏𝐋𝐎𝐘𝐈𝐍𝐆 𝐖𝐄𝐁
+
+<p>
+  <a href="https://heroku.com/deploy?template=https://github.com/abdirii-12/Unlimited-Tech-">
+    <img 
+      title="DEPLOY ON HEROKU" 
+      src="https://img.shields.io/badge/DEPLOY-ON%20HEROKU-red?style=for-the-badge&logo=heroku" 
+      width="220" 
+      height="38.45"
+    />
+  </a>
+</p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
